@@ -1,0 +1,14 @@
+{
+  "dtaId": 1754994018107,
+  "channels": [
+    "https://gh.llkk.cc/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/refs/heads/master/TV-IPV4.m3u"
+  ],
+  "dataValueProxy": "0",
+  "timeoutSwitchLine": "15",
+  "leftRightSelect": true,
+  "fontScale": "1.6",
+  "appFontFamily": "{\"id\":\"0\",\"font_name\":\"系统\",\"font_key\":\"system\",\"font_type\":\"ttf\"}",
+  "bingBg": true,
+  "autoUpdate": true,
+  "lightVersionCheck": true
+}
